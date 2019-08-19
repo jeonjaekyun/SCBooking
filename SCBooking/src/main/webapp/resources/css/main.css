@@ -1,0 +1,262 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+a:link, a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #2ecc71;
+}
+
+a:active {
+	color: #27ae60;
+	font-weight: bold;
+}
+
+#titleBox {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 2035px;
+	height: 140px;
+	background-image: url(../images/title_image.jpg);
+	text-align: center;
+	padding: 40px;
+}
+
+#title {
+	color: white;
+	font-size: 100px;
+	font-family: 'Courgette', cursive;
+}
+
+#logAndMenu {
+	position: absolute;
+	top: 220px;
+	left: 0px;
+	float: left;
+	height: 1200px;
+}
+
+#log {
+	padding-top: 10px;
+	height: 150px;
+	background: #bdc3c7;
+	text-align: center;
+	font-size: 24px;
+}
+
+#btnLogout {
+	margin: 20px;
+	width: 150px;
+	height: 40px;
+}
+
+#menu {
+	width: 240px;
+	height: 100%;
+	background: #ecf0f1;
+	padding-top: 10px;
+	text-align: center;
+}
+
+#menu ul {
+	padding-left: 0px;
+}
+
+#menu li {
+	list-style-type: none;
+	margin: 20px;
+	font-size: 24px;
+}
+
+#menuElement {
+	position: absolute;
+	top: 220px;
+	left: 240px;
+}
+
+#QAZone {
+	margin-left: 30%;
+	margin-top: 50px
+}
+
+#bookingBox {
+	border: 1px solid black;
+	width: 1200px;
+	height: 600px;
+	margin-left: 20%;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+#bookingInput {
+	width: 360px;
+	height: 520px;
+	background-color: lightgray;
+	float: left;
+	font-size: 24px;
+	padding: 40px;
+}
+
+#bookingInput select {
+	font-size: 24px;
+	width: 200px;
+}
+
+#bookingInput span {
+	margin-left: 105px;
+}
+
+.okBtn {
+	background-color: #0040FF;
+	border: 0px;
+	color: white;
+	border-radius: 20px;
+	margin-top: 30px;
+	width: 350px;
+	height: 50px;
+	font-size: 25px;
+}
+
+#scheduleBox {
+	width: 760px;
+	height: 110px;
+	float: left;
+	border-spacing: 0px;
+	text-align: center;
+}
+
+#scheduleBox tr {
+	height: 54px;
+}
+#scheduleBox th {
+	background: #2ecc71;
+	color:white;
+}
+#lookupZone {
+	background-color: lightgray;
+}
+
+#lookupZone select {
+	font-size: 16px;
+	width: 100px;
+	height: 30px;
+}
+
+#roomMap {
+	height: 600px;
+	width: 760px;
+	border: 1px solid;
+	margin-left: 38%;
+	margin-top: 50px
+}
+
+#roomMap .roomShape {
+	width: 150px;
+	height: 160px;
+	border: 1px solid;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 100px;
+	float: left;
+}
+
+#roomMap .hallway {
+	width: 100%;
+	height: 77px;
+	text-align: right;
+	font-size: 24px;
+}
+
+#roomMap .hallway div {
+	width: 5px;
+	height: 100%;
+	background-color: blue;
+	float: right;
+}
+
+#inputSearch {
+	font-size: 20px;
+}
+
+#btnSearch, #btnNewBoard {
+	background: #546de5;
+	border: 0px;
+	color: white;
+	width: 90px;
+	height: 34px;
+	font-size: 18px;
+}
+
+#listTable {
+	width: 1100px;
+	font-size: 20px;
+	margin-top: 20px;
+	border: 1px solid;
+	border-spacing: 0px;
+}
+
+#listTitleZone {
+	background: #2ecc71;
+	color: white;
+}
+
+#listTable tr {
+	height: 50px;
+}
+
+#listTable th {
+	width: 100px;
+}
+
+#listTable td {
+	text-align: center;
+}
+
+#paginationZone {
+	padding-left: 380px;
+	width: 950px;
+}
+
+#pagination li {
+	list-style: none;
+	display: inline-block;
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+#newBoardZone {
+	padding: 10px;
+	width: 880px;
+}
+
+#newBoardZone input, textarea {
+	font-size: 18px;
+}
+
+#btnZone {
+	padding-left: 300px;
+}
+
+#btnZone input {
+	font-size: 16px;
+	margin: 10px;
+	width: 100px;
+}
+
+#readBoardZone {
+	padding: 10px;
+	width: 880px;
+}
+
+#readBoardZone span {
+	font-size: 20px;
+}
+#contextZone{
+	height:100px;
+}
