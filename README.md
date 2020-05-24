@@ -32,6 +32,7 @@ Spring을 활용한 스터디 카페 예약 프로그램
 </div>
 
 ## DataBase
+<img width="800" src="https://user-images.githubusercontent.com/39545165/82751036-6f673200-9def-11ea-82df-7fabb1313791.PNG">
 
 ## 주요기능
 - 로그인/회원가입
