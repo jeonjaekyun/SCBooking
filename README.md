@@ -3,6 +3,12 @@
 ## 주제
 Spring을 활용한 스터디 카페 예약 프로그램
 
+## 개발 언어 및 IT Skill
+- JAVA, Javascript, JSP
+- Spring Framework, STS
+- MySQL, MyBatis
+- Apache Tomcat
+
 ## 구조도
 ![SCBooking_StructureChart](https://user-images.githubusercontent.com/39545165/62020147-afc04880-b1fc-11e9-9ab0-83b646039482.JPG)
 
